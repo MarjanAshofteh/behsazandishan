@@ -34,3 +34,6 @@ sites/simpletest
 
 # Ignore SimpleTest multi-site environment.
 simpletest
+
+#ignore phpstorms setting file
+.idea/*
