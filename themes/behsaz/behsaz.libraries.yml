@@ -2,6 +2,7 @@ framework:
   css:
     theme:
       css/style.css: {}
+      css/material-kit.css: {}
   js:
     bootstrap/js/affix.js: {}
     bootstrap/js/alert.js: {}
